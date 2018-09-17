@@ -1,5 +1,5 @@
 {
-    "name": "ptflp/weeframework",
+    "name": "ptflp/wee",
     "description": "Wee framework - slim framework for self developing",
     "keywords": [
         "wee",
@@ -19,7 +19,8 @@
         "yiisoft/yii2": "self.version"
     },
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=5.4.0",
+        "ptflp/weeframework": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "4.8.34",

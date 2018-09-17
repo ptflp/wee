@@ -1,7 +1,7 @@
 <?php
 require(__DIR__ . '/../vendor/autoload.php');
 
-use wee\App;
+use wee\Base\App;
 
-echo 'index';
+App::run();
 
